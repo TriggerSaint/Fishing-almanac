@@ -1,2 +1,5 @@
 # Fishing-almanac
-HTML/CSS LABS
+
+WEB - programming <BR>
+HTML/CSS - LABS <BR>
+Creating fishing-almanac website 🥺
